@@ -1,0 +1,24 @@
+{
+  "name": "desarrolloweb_handlebars",
+  "version": "1.0.0",
+  "description": "This project is part of the web development class.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gustavo-Hernandez/DesarrolloWeb_Handlebars.git"
+  },
+  "author": "Gustavo-Hernandez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gustavo-Hernandez/DesarrolloWeb_Handlebars/issues"
+  },
+  "homepage": "https://github.com/Gustavo-Hernandez/DesarrolloWeb_Handlebars#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.1.0",
+    "nodemon": "^2.0.5"
+  }
+}
